@@ -8,3 +8,5 @@ services:
     ports:
       - 5566:5432
     restart: always
+  auth:
+    
